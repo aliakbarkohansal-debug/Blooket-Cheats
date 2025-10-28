@@ -1,4 +1,4 @@
-name: Bug Report
+aliname: Bug Report
 description: Report an issue or problem with a script
 title: "BUG: (script name)"
 labels: ["bug"]
